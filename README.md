@@ -15,7 +15,7 @@
 
 **Предварительные требования для изучения курса :**
 
-  1. (Уверенное знание ситаксиса Python)[https://github.com/majakovsky/Algorithms_Data_structure_Python]
+  1. [Уверенное знание ситаксиса Python](https://github.com/majakovsky/Algorithms_Data_structure_Python)
   2. Знакомство с основными понятиями математической статистики и теории вероятностей
 
 
