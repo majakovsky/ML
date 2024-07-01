@@ -4,9 +4,9 @@
 
 **Разделы, которые были затронуты при обучении :**
 
-  1. ML | Введение в машинное обучение
-  2. Регрессия
-  3. Классификация
+  1. [ML | Введение в машинное обучение](https://github.com/majakovsky/ML/tree/main/course/ML0_Introduction)
+  2. [Регрессия](https://github.com/majakovsky/ML/tree/main/course/ML1_Regression)
+  3. [Классификация](https://github.com/majakovsky/ML/tree/main/course/ML2_Classification)
   4. Диагностика моделей машинного обучения
   5. Предобработка данных
   6. Методы обучения без учителя
