@@ -1,3 +1,4 @@
 Что такое машинное обучение 
 
-[ML Structure](https://github.com/majakovsky/ML/blob/main/course/ml0_introduction/ml_structure.png)
+
+![ml_structure](https://github.com/majakovsky/ML/assets/90866868/f51eca06-074d-4314-be38-7849e59007e1)
