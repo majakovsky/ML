@@ -1,4 +1,4 @@
-Что такое машинное обучение 
+# Что такое машинное обучение 
 
 
 <img src="https://github.com/majakovsky/ML/assets/90866868/f51eca06-074d-4314-be38-7849e59007e1" width="500" />
